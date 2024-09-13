@@ -13,7 +13,7 @@ This is a React.js application that utilizes the Open Movie Database (OMDb) API 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/amar-nath-bhat/react-movie-app.git
+   git clone https://github.com/mayurjathan/react-movie-app.git
    ```
 
 2. Navigate to the project directory:
@@ -49,4 +49,3 @@ This is a React.js application that utilizes the Open Movie Database (OMDb) API 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-# react-movie-app
